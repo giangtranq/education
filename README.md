@@ -1,4 +1,4 @@
-# Socioeconomic factors and high school ACT/SAT Performance
+# Socioeconomic factors and high school ACT/SAT performance
 
 ## Project overview
 This project examines whether average ACT/SAT performance at U.S. high schools is associated with the socioeconomic characteristics of the communities they serve, as a way of studying inequality of educational opportunity.
