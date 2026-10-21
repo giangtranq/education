@@ -5,12 +5,11 @@ pandas
 # Visualization
 matplotlib
 seaborn
+plotly
 
-
-# Machine Learning
+# Statistical modeling and machine learning
 scikit-learn
 statsmodels
-
 
 # Jupyter & Development
 jupyter
